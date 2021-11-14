@@ -1,9 +1,8 @@
-### Hi there 👋
+### Hi there 👋, my name is Michał. You can call me Mike 
+#### I am Senior Software Developer
+I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
 
-<!--
-**michmzr/michmzr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+Skills: Distributed architecture | GCP | Cloud  | Kafka | Spring Boot | Grails | Java | Elastic Search | MySql | Python | JS
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
