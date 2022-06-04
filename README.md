@@ -22,6 +22,8 @@ Skills: Distributed architecture | GCP | Cloud  | Kafka | Spring Boot | Grails |
   - Clean code
   - GCP / Azure
   - Databricks / PySpark
+  - Kafka
+  - Elastic Search / SQL
   - Digital nomadism
 - 📫 How to reach me: ...
   - twitter: https://twitter.com/MichalMzr
