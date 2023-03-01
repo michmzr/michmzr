@@ -5,12 +5,11 @@ I made this project just for fun, it allows you to create nice and simple GitHub
 Skills: Distributed architecture | GCP | Cloud  | Kafka | Spring Boot | Grails | Java | Elastic Search | MySql | Python | JS
 
 - 🔭 I’m currently working on ...
-  - CDL/Big data project
-  - Preparing for Azure developer certificate 
+  - Networking management application in investment bank
 - 🌱 I’m currently learning ...
-  - Azure
-  - Pentesting
-  - GoLang
+  - Dropwizard
+  - MongoDB
+  - Vue 3
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
