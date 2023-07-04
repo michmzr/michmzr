@@ -7,16 +7,21 @@ Skills: Distributed architecture | GCP | Cloud  | Kafka | Spring Boot | Grails |
 - 🔭 I’m currently working on ...
   - Networking management application in investment bank
   - Personal assistant using LLM models like GPT
+  - Series of articles about second brain
+  - Series of articles with solving ![architecture kata](https://www.architecturalkatas.com/)
 - 🌱 I’m currently learning ...
   - MongoDB
   - Vue 3
   - Kotlin
   - Prompt engineering
+  - LangChain
+  - Rust
+  - Svelte
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
-  - Developer productivity
   - Productivity
+  - Second brain
   - Distributed architecture + microservices
   - Java
   - Spring Boot
@@ -24,7 +29,7 @@ Skills: Distributed architecture | GCP | Cloud  | Kafka | Spring Boot | Grails |
   - GCP / Azure
   - Databricks / PySpark
   - Kafka
-  - Elastic Search / SQL
+  - Elastic Search
   - Digital nomadism
 - 📫 How to reach me: ...
   - twitter: https://twitter.com/MichalMzr
