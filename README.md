@@ -10,7 +10,7 @@ Technological generalist with speciality in JVM. I am not afraid to code in JS, 
   - Networking management application in investment bank
   - Personal assistant using LLM models like GPT
   - Series of articles about second brain
-  - Series of articles with solving ![architecture kata](https://www.architecturalkatas.com/)
+  - Series of articles with solving [architecture kata](https://www.architecturalkatas.com/)
 - 🌱 I’m currently learning ...
   - MongoDB
   - Vue 3
