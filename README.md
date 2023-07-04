@@ -1,8 +1,10 @@
 ### Hi there 👋, my name is Michał. You can call me Mike 
 #### I am Senior Software Developer
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+```
+Technological generalist with speciality in JVM. I am not afraid to code in JS, Python or Rust
+```
 
-Skills: Distributed architecture | GCP | Cloud  | Kafka | Spring Boot | Grails | Java | Elastic Search | MySql | Python | JS
+**Skills:** Distributed architecture | GCP | Cloud  | Kafka | Spring Boot | Grails | Java | Elastic Search | MySql | Python | JS
 
 - 🔭 I’m currently working on ...
   - Networking management application in investment bank
